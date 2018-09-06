@@ -1,9 +1,9 @@
 # Tetris
-Simple tetris game in Java. <br/>
-Work in progress...
+Simple tetris game written in _Java_.
+
 # In-game controls
-left arrow - move left<br/>
-right arrow - move right<br/>
-up arrow - rotate the block counterclockwise<br/>
-down arrow - move the block 1 unit down<br/>
-space - move the block all the way down<br/>
+* _left arrow_ - move left.
+* _right arrow_ - move right.
+* _up arrow_ - rotate the block counterclockwise.
+* _down arrow_ - move the block 1 unit down.
+* _space_ - move the block all the way down.
